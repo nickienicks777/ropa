@@ -1,0 +1,2142 @@
+# Translation of Plugins - Funnel Builder by CartFlows &#8211; Create High Converting Sales Funnels For WordPress - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Funnel Builder by CartFlows &#8211; Create High Converting Sales Funnels For WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-01-06 07:59:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Funnel Builder by CartFlows &#8211; Create High Converting Sales Funnels For WordPress - Stable (latest release)\n"
+
+#: admin-legacy/class-cartflows-legacy-importer.php:1726
+msgid "User have not plugin install permissions."
+msgstr "El usuario no tiene permiso de instalación de plugins."
+
+#: admin-legacy/class-cartflows-legacy-importer.php:1719
+msgid "Action failed. Invalid Security Nonce."
+msgstr "Acción fallida. Nonce de seguridad no válido."
+
+#: admin-legacy/includes/admin/cartflows-general.php:298
+#: admin-core/inc/global-settings.php:203
+msgid "Purchase Complete"
+msgstr "Compra finalizada"
+
+#: admin-legacy/includes/admin/cartflows-general.php:289
+#: admin-legacy/includes/admin/cartflows-general.php:396
+#: admin-core/inc/global-settings.php:189
+#: admin-core/inc/global-settings.php:301
+msgid "Add Payment Info"
+msgstr "Añadir información de pago"
+
+#: admin-legacy/includes/admin/cartflows-general.php:280
+#: admin-core/inc/global-settings.php:174
+msgid "Initiate Checkout"
+msgstr "Iniciar el pago"
+
+#: admin-legacy/includes/admin/cartflows-general.php:217
+#: admin-core/assets/build/settings-app.js:1
+msgid "Facebook Pixel Settings"
+msgstr "Ajustes del píxel de Facebook"
+
+#: admin-legacy/includes/admin/cartflows-general.php:271
+#: admin-legacy/includes/admin/cartflows-general.php:370
+msgid "Enable Events:"
+msgstr "Activar los eventos:"
+
+#: admin-legacy/includes/admin/cartflows-general.php:263
+#: admin-core/inc/global-settings.php:145
+msgid "Enter Facebook pixel ID"
+msgstr "Introducir el ID del píxel de Facebook"
+
+#: admin-legacy/includes/admin/cartflows-general.php:232
+msgid "Enable Facebook Pixel Tracking"
+msgstr "Activar el seguimiento del píxel de Facebook"
+
+#: admin-legacy/modules/flow/class-cartflows-flow-meta.php:837
+#: admin-core/api/flow-data.php:221 admin-core/api/flow-data.php:295
+#: admin-core/api/flow-data.php:377 admin-core/api/flows.php:182
+#: admin-core/assets/build/settings-app.js:1
+msgid "Delete"
+msgstr "Borrar"
+
+#: admin-legacy/modules/flow/class-cartflows-flow-meta.php:817
+#: admin-core/api/flow-data.php:260 admin-core/api/flow-data.php:330
+#: admin-core/api/flows.php:160 admin-core/assets/build/settings-app.js:1
+msgid "Edit"
+msgstr "Editar"
+
+#: admin-legacy/includes/admin/cartflows-general.php:191
+#: admin-core/inc/global-settings.php:114
+msgid "Flow Base"
+msgstr "Base de los flujos"
+
+#: admin-legacy/includes/admin/cartflows-general.php:181
+#: admin-core/inc/global-settings.php:108
+msgid "Step Base"
+msgstr "Base de los pasos"
+
+#: admin-legacy/includes/admin/cartflows-general.php:173
+#: admin-core/inc/global-settings.php:104
+msgid "Post Type Permalink Base"
+msgstr "Base del enlace permanente del tipo de contenido"
+
+#: admin-legacy/includes/admin/cartflows-general.php:161
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:219
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:883
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:457
+#: modules/landing/classes/class-cartflows-landing-meta-data.php:114
+#: admin-core/inc/global-settings.php:97
+msgid "Step Slug"
+msgstr "Slug del paso"
+
+#: admin-legacy/includes/admin/cartflows-general.php:155
+#: admin-core/inc/global-settings.php:92 admin-core/inc/flow-meta.php:51
+msgid "Flow Slug"
+msgstr "Slug del flujo"
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:209
+msgid "Slug"
+msgstr "Slug"
+
+#: admin-legacy/includes/admin/cartflows-general.php:149
+#: admin-core/inc/global-settings.php:87
+msgid "Flow and Step Slug"
+msgstr "Slug del flujo y el paso"
+
+#: admin-legacy/modules/checkout/class-cartflows-checkout-meta.php:157
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:97
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:731
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:826
+msgid "Checkout Offer"
+msgstr "Oferta al finalizar compra"
+
+#. translators: %s: link
+#: admin-legacy/modules/checkout/class-cartflows-checkout-meta.php:382
+msgid "Update to %1$sCartFlows Pro%2$s to %3$s or above for Checkout Offer feature"
+msgstr "Actualiza a %1$sCartFlows Pro%2$s a %3$s o superior para la característica de oferta al pagar"
+
+#. translators: %s: link
+#: admin-legacy/modules/checkout/class-cartflows-checkout-meta.php:372
+msgid "Upgrade to %1$sCartFlows Pro%2$s for Checkout Offer feature"
+msgstr "Actualiza a %1$sCartFlows Pro%2$s para la característica de oferta al pagar"
+
+#: classes/class-cartflows-learndash-compatibility.php:119
+msgid "Select CartFlows Template for this Course"
+msgstr "Selecciona la plantilla CartFlows para este curso"
+
+#. translators: 1: anchor start, 2: anchor close
+#: classes/class-cartflows-learndash-compatibility.php:113
+msgid "Non-enrolled students will redirect to the selected CartFlows template. If you have not created any Flow already, add new Flow from %1$shere%2$s."
+msgstr "Los estudiantes no inscritos serán redirigidos a la plantilla CartFlows seleccionada. Si aún no has creado ningún flujo, añade un nuevo flujo desde %1$saquí%2$s."
+
+#: classes/class-cartflows-learndash-compatibility.php:86
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:216
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:245
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:192
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:338
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:333
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:525
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/components/option-selector-control/index.js:49
+#: modules/gutenberg/src/components/option-selector-control/index.js:50
+#: modules/gutenberg/src/components/gutter-options/index.js:6
+#: modules/gutenberg/src/components/gutter-options/index.js:7
+#: modules/gutenberg/src/blocks/next-step-button/edit.js:607
+#: modules/gutenberg/src/blocks/next-step-button/edit.js:696
+#: modules/gutenberg/src/blocks/next-step-button/edit.js:1127
+msgid "None"
+msgstr "Ninguno"
+
+#: admin-legacy/includes/admin/cartflows-general.php:128
+#: admin-core/assets/build/settings-app.js:1
+msgid "Permalink Settings"
+msgstr "Ajustes de los enlaces permanentes"
+
+#: admin-legacy/includes/admin/cartflows-general.php:203
+#: admin-core/assets/build/settings-app.js:1
+msgid "Set Default"
+msgstr "Establecer por defecto"
+
+#: modules/thankyou/classes/class-cartflows-thankyou-markup.php:97
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:362
+#: modules/optin/classes/class-cartflows-optin-markup.php:215
+msgid "Click Here to Reload"
+msgstr "Haz clic aquí para recargar"
+
+#: woocommerce/template/checkout/form-shipping.php:26
+msgid "Ship to a different address?"
+msgstr "¿Enviar a otra dirección?"
+
+#: modules/thankyou/classes/class-cartflows-thankyou-markup.php:96
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:361
+#: modules/optin/classes/class-cartflows-optin-markup.php:214
+msgid "WooCommerce functions do not exist. If you are in an IFrame, please reload it."
+msgstr "No existen funciones de WooCommerce. Si estás en un IFrame, por favor, recárgalo."
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:315
+msgctxt "cartflows"
+msgid "CartFlows — Boxed"
+msgstr "CartFlows - En caja"
+
+#: woocommerce/template/checkout/form-shipping.php:57
+msgid "Additional information"
+msgstr "Información adicional"
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:69
+msgid "Name: "
+msgstr "Nombre:"
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:69
+msgid "Flow: "
+msgstr "Flujo:"
+
+#: modules/gutenberg/classes/class-cartflows-init-blocks.php:117
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:1058
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:79
+msgid "No product is selected. Please select products from the checkout meta settings to continue."
+msgstr "No hay seleccionado ningún producto. Por favor, selecciona productos desde los ajustes en la caja meta de la página de pago para continuar. "
+
+#: classes/class-cartflows-wizard.php:98
+msgid "Skip Setup"
+msgstr "Saltar la configuración"
+
+#: classes/class-cartflows-wizard.php:97
+msgid "Start Wizard"
+msgstr "Iniciar el asistente"
+
+#: classes/class-cartflows-flow-frontend.php:58
+msgid "Click here to disable it"
+msgstr "Haz clic aquí para desactivarlo."
+
+#: admin-legacy/modules/flow/class-cartflows-flow-meta.php:614
+#: admin-core/inc/flow-meta.php:64
+msgid "If you are using WooCommerce plugin then test mode will add random products in your flow, so you can preview it easily while testing."
+msgstr "Si estás usando WooCommerce, entonces el modo de prueba añadirá productos aleatorios en tu flujo, para que puedas previsualizarlos fácilmente durante la prueba."
+
+#: classes/class-cartflows-metabox.php:59
+msgid "Flow Details"
+msgstr "Detalles del flujo"
+
+#: admin-legacy/modules/flow/class-cartflows-flow-meta.php:487
+#: admin-core/inc/flow-meta.php:69 admin-core/assets/build/editor-app.js:1
+msgid "Analytics"
+msgstr "Analítica"
+
+#. translators: %s: link
+#: admin-legacy/modules/flow/class-cartflows-flow-meta.php:504
+msgid "Upgrade to %1$sCartFlows Pro%2$s for Analytics feature"
+msgstr "Actualiza a %1$sCartFlows Pro%2$s para la característica de analítica"
+
+#: classes/class-cartflows-wizard.php:311
+msgid "Thank you for choosing CartFlows to get more leads, increase conversions, & maximize profits. This short setup wizard will guide you though configuring CartFlows and creating your first funnel."
+msgstr "Gracias por elegir CartFlows para obtener más clientes potenciales, aumentar las conversiones y maximizar las ganancias. Este breve asistente de configuración te guiará a través de la configuración de CartFlows y la creación de tu primer embudo."
+
+#: classes/class-cartflows-wizard.php:702
+msgid "We want you to get off to a great start using CartFlows, so we would like to give access to our exclusive training course."
+msgstr "Queremos que tengas un buen comienzo con CartFlows, por lo que nos gustaría darte acceso a nuestro exclusivo curso de formación."
+
+#: classes/class-cartflows-wizard.php:691
+msgid "Exclusive CartFlows Training Course Offer"
+msgstr "Oferta exclusiva de curso de formación en CartFlows"
+
+#: classes/class-cartflows-wizard.php:653
+msgid "Congratulations, You Did It!"
+msgstr "¡Enhorabuena, lo hiciste!"
+
+#: classes/class-cartflows-wizard.php:466
+msgid "While CartFlows is designed to use WooCommerce sell digital and physical products, not all funnels need a checkout system."
+msgstr "Aunque CartFlows está diseñado para utilizar WooCommerce para vender productos digitales y físicos, no todos los embudos necesitan un sistema de pago."
+
+#: classes/class-cartflows-wizard.php:660
+msgid "CartFlows is ready to use on your website. You've successfully completed the setup process and all that is left for you to do is create your first flow."
+msgstr "CartFlows está listo para ser utilizado en tu web. Has completado correctamente el proceso de configuración y todo lo que te queda por hacer es crear tu primer flujo."
+
+#: classes/class-cartflows-wizard.php:477
+msgid "WooCommerce Cart Abandonment Recovery"
+msgstr "WooCommerce Cart Abandonment Recovery"
+
+#: classes/class-cartflows-wizard.php:476
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: classes/class-cartflows-wizard.php:468
+msgid "Would you like to install WooCommerce to sell digital and physical products in your funnels?"
+msgstr "¿Te gustaría instalar WooCommerce para vender productos digitales y físicos en tus embudos?"
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:267
+#: modules/flow/view/meta-flow-steps.php:14
+msgid "Upsell (Woo)"
+msgstr "Venta dirigida (Woo)"
+
+#: admin-legacy/class-cartflows-legacy-importer.php:1294
+#: modules/flow/classes/class-cartflows-step-post-type.php:260
+#: modules/flow/view/meta-flow-steps.php:13 admin-core/ajax/importer.php:481
+msgid "Thank You (Woo)"
+msgstr "Gracias (Woo)"
+
+#: admin-legacy/class-cartflows-legacy-importer.php:1290
+#: modules/flow/classes/class-cartflows-step-post-type.php:253
+#: modules/flow/view/meta-flow-steps.php:12 admin-core/ajax/importer.php:477
+msgid "Checkout (Woo)"
+msgstr "Finalizar compra (Woo)"
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:274
+#: modules/flow/view/meta-flow-steps.php:15
+msgid "Downsell (Woo)"
+msgstr "Venta cruzada a la baja (Woo)"
+
+#: classes/class-cartflows-wizard.php:310
+msgid "Welcome to CartFlows!"
+msgstr "¡Bienvenido a CartFlows!"
+
+#: classes/class-cartflows-wizard.php:355
+msgid "Page Builder Setup"
+msgstr "Configuración del maquetador de páginas"
+
+#: classes/class-cartflows-wizard.php:443
+msgid "Skip this step"
+msgstr "Saltar este paso"
+
+#: classes/class-cartflows-wizard.php:356
+msgid "Please select a page builder you would like to use with CartFlows."
+msgstr "Por favor, selecciona el maquetador de páginas que te gustaría utilizar con CartFlows."
+
+#: classes/class-cartflows-wizard.php:141
+msgid "Training"
+msgstr "Formación"
+
+#: classes/class-cartflows-wizard.php:489
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:110
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:119
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:128
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:137
+msgid "Yes"
+msgstr "Sí"
+
+#: classes/class-cartflows-wizard.php:488
+#: classes/class-cartflows-wizard.php:720
+msgid "No thanks"
+msgstr "No, gracias"
+
+#: classes/class-cartflows-wizard.php:463
+msgid "Choose a checkout"
+msgstr "Elige un sistema de pago"
+
+#: classes/class-cartflows-wizard.php:430
+msgid "While CartFlows Should work with most page builders, we offer templates for the above page builders."
+msgstr "Si bien CartFlows debería funcionar con la mayoría de los maquetadores de páginas, ofrecemos plantillas para los maquetadores de páginas anteriores."
+
+#: classes/class-cartflows-wizard.php:378
+msgid "Beaver Builder Plugin (Lite Version)"
+msgstr "Plugin Beaver Builder (Versión lite)"
+
+#: admin-legacy/class-cartflows-admin-classes.php:470
+msgid "Installing and activating.."
+msgstr "Instalando y activando..."
+
+#: admin-legacy/class-cartflows-legacy-importer.php:1286
+#: admin-core/ajax/importer.php:473
+msgid "Sales Landing"
+msgstr "Página de destino de ventas"
+
+#. translators: %s: html tags
+#: classes/class-cartflows-loader.php:261
+msgid "You are using an older version of %1$sCartFlows Pro%2$s. Please update %1$sCartFlows Pro%2$s plugin to version %1$s%3$s%2$s or higher."
+msgstr "Estás utilizando una versión antigua de %1$sCartFlows Pro%2$s. Por favor, actualiza el plugin %1$sCartFlows Pro%2$s a la versión %1$s%3$s%2$s o superior."
+
+#: classes/class-cartflows-logger.php:180 admin-core/inc/wcf-debugger.php:131
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Acción fallida. Por favor, actualiza la página y vuelve a intentarlo."
+
+#: includes/admin/cartflows-error-log.php:71 admin-core/views/debugger.php:64
+msgid "There are currently no logs to view."
+msgstr "No hay registros que mostrar."
+
+#: admin-legacy/class-cartflows-admin-classes.php:471
+msgid "There was an error with the installation of plugin."
+msgstr "Ha habido un error en la instalación del plugin."
+
+#: classes/class-cartflows-wizard.php:721
+msgid "Allow"
+msgstr "Autorizar"
+
+#: classes/class-cartflows-wizard.php:705
+msgid "Enter Email address"
+msgstr "Introduce tu dirección de correo electrónico"
+
+#: classes/class-cartflows-wizard.php:703
+msgid "Get access to this couse, for free, by entering your email below."
+msgstr "Accede a este curso, de forma gratuita, introduciendo tu dirección de correo electrónico a continuación."
+
+#: classes/logger/class-cartflows-log-handler-file.php:351
+#: classes/logger/class-cartflows-log-handler-file.php:371
+msgid "This method should not be called before plugins_loaded."
+msgstr "Este método no debe ser llamado antes de plugins_loaded."
+
+#. translators: 1: Cartflows_WC_Logger::log 2: level
+#: classes/logger/class-cartflows-wc-logger.php:136
+msgid "%1$s was called with an invalid level \"%2$s\"."
+msgstr "Se ha llamado a %1$s con el nivel no válido «%2$s»."
+
+#. translators: %1$s: timestamp1, %2$s: timestamp2
+#: includes/admin/cartflows-error-log.php:37 admin-core/views/debugger.php:31
+msgid "%1$s at %2$s"
+msgstr "%1$s a las %2$s"
+
+#. translators: 1: class name 2: Cartflows_Log_Handler_Interface
+#: classes/logger/class-cartflows-wc-logger.php:58
+msgid "The provided handler %1$s does not implement %2$s."
+msgstr "El manejador proporcionado %1$s no implementa %2$s."
+
+#: includes/admin/cartflows-error-log.php:66 admin-core/views/debugger.php:59
+msgid "Delete log"
+msgstr "Borrar registro"
+
+#: woocommerce/template/global/form-login.php:57
+msgid "Lost your password?"
+msgstr "¿Has perdido tu contraseña?"
+
+#: woocommerce/template/global/form-login.php:53
+msgid "Remember me"
+msgstr "Recuérdame"
+
+#: woocommerce/template/global/form-login.php:48
+msgid "Login"
+msgstr "Acceder"
+
+#: woocommerce/template/global/form-login.php:38
+msgid "Password"
+msgstr "Contraseña"
+
+#: woocommerce/template/global/form-login.php:34
+msgid "Username or email"
+msgstr "Nombre de usuario o correo electrónico"
+
+#: admin-legacy/includes/admin/cartflows-general.php:498
+msgid "Load the Minified CSS from here. Just Enable it by checking the below given checkbox."
+msgstr "Carga el CSS minimizado desde aquí. Habilítalo marcando la casilla de verificación que aparece a continuación."
+
+#: admin-legacy/includes/admin/cartflows-general.php:493
+msgid "Load Minified CSS"
+msgstr "Cargar CSS minimizado"
+
+#: admin-legacy/includes/admin/cartflows-general.php:505
+msgid "Load minified CSS & JS Files"
+msgstr "Carga archivos JS y CSS minimizados"
+
+#: admin-legacy/includes/admin/cartflows-general.php:510
+#: admin-core/assets/build/editor-app.js:1
+#: admin-core/assets/build/editor-app.js:2
+msgid "Save"
+msgstr "Guardar"
+
+#: woocommerce/template/checkout/payment.php:43
+msgid "Update totals"
+msgstr "Actualizar totales"
+
+#. translators: $1 and $2 opening and closing emphasis tags respectively
+#: woocommerce/template/checkout/payment.php:41
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the %1$sUpdate Totals%2$s button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr "Dado que tu navegador no soporta JavaScript, o está deshabilitado, por favor asegúrate de hacer clic en el botón %1$sActualizar totales%2$s antes de realizar tu pedido. Si no lo haces, es posible que se te cobre más de la cantidad indicada anteriormente."
+
+#: woocommerce/template/checkout/payment.php:32
+msgid "Please fill in your details above to see available payment methods."
+msgstr "Por favor, rellena tus datos arriba para ver los métodos de pago disponibles."
+
+#: woocommerce/template/checkout/payment.php:32
+msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr "Lo sentimos, parece que no hay métodos de pago disponibles para tu país. Pónte en contacto con nosotros si necesitas ayuda o deseas hacer otras gestiones."
+
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:31
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:174
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:160
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:121
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/blocks/checkout-form/edit.js:269
+msgid "Two Step"
+msgstr "Dos pasos"
+
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:19
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:148
+msgid "Two Step (Available in CartFlows Pro) "
+msgstr "Dos pasos (disponible en CartFlows Pro)"
+
+#: admin-legacy/class-cartflows-meta.php:66
+#: modules/flow/classes/class-cartflows-step-meta-base.php:78
+msgid "Custom script lets you add your own custom script on front end of this flow page."
+msgstr "El script personalizado te permite agregar tu propio script personalizado en la parte pública de esta página de flujo."
+
+#: admin-legacy/modules/thankyou/class-cartflows-thankyou-meta.php:146
+#: admin-legacy/modules/checkout/class-cartflows-checkout-meta.php:175
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:157
+#: admin-legacy/modules/landing/class-cartflows-landing-meta.php:136
+#: admin-legacy/class-cartflows-meta.php:63
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:293
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:298
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:925
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:931
+#: modules/flow/classes/class-cartflows-step-meta-base.php:76
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:498
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:503
+#: modules/landing/classes/class-cartflows-landing-meta-data.php:120
+#: modules/landing/classes/class-cartflows-landing-meta-data.php:126
+msgid "Custom Script"
+msgstr "Script personalizado"
+
+#. translators: %s: Plugin string
+#: admin-legacy/class-cartflows-legacy-importer.php:878
+msgid "%1$s to see CartFlows templates. If you prefer another page builder tool, you can <a href=\"%2$s\" target=\"blank\">select it here</a>."
+msgstr "%1$s para ver las plantillas de CartFlows. Si prefieres otra herramienta de maquetación de páginas, puedes <a href=\"%2$s\" target=\"blank\">seleccionarla aquí </a>."
+
+#. Translators: $s shipping destination.
+#: woocommerce/template/cart/cart-shipping.php:67
+msgid "Enter a different address"
+msgstr "Introduce una dirección diferente"
+
+#. Translators: $s shipping destination.
+#: woocommerce/template/cart/cart-shipping.php:66
+msgid "No shipping options were found for %s."
+msgstr "No se han encontrado opciones de envío para %s."
+
+#: woocommerce/template/checkout/thankyou.php:30
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction. Please attempt your purchase again."
+msgstr "Desafortunadamente, tu pedido no puede procesarse porque el banco/operador ha rechazado tu transacción. Por favor, intenta hacer tu compra de nuevo."
+
+#: woocommerce/template/cart/cart-shipping.php:63
+msgid "There are no shipping methods available. Please ensure that your address has been entered correctly, or contact us if you need any help."
+msgstr "No hay opciones de métodos de envío disponibles. Por favor, asegúrate de que has introducido correctamente tu dirección, o contáctanos si necesitas ayuda."
+
+#: woocommerce/template/cart/cart-shipping.php:61
+msgid "Enter your address to view shipping options."
+msgstr "Introduce tu dirección para ver las opciones de envío."
+
+#: woocommerce/template/cart/cart-shipping.php:54
+msgid "This is only an estimate. Prices will be updated during checkout."
+msgstr "Esto es solo una estimación. Los precios se actualizarán durante el proceso de compra."
+
+#: woocommerce/template/checkout/thankyou.php:49
+msgid "Order number:"
+msgstr "Número de pedido:"
+
+#: woocommerce/template/checkout/thankyou.php:41
+#: woocommerce/template/checkout/thankyou.php:86
+#: admin-legacy/modules/thankyou/class-cartflows-thankyou-meta.php:176
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:264
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:165
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:98
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/blocks/order-detail-form/edit.js:721
+msgid "Thank you. Your order has been received."
+msgstr "Gracias. Tu pedido se ha recibido."
+
+#: woocommerce/template/checkout/thankyou.php:35
+msgid "My account"
+msgstr "Mi cuenta"
+
+#: woocommerce/template/checkout/thankyou.php:33
+msgid "Pay"
+msgstr "Pagar"
+
+#: woocommerce/template/checkout/form-login.php:32
+msgid "If you have shopped with us before, please enter your details below. If you are a new customer, please proceed to the Billing &amp; Shipping section."
+msgstr "Si ya eres cliente, por favor, rellena tus datos a continuación. Si eres un nuevo cliente, continúa en la sección de facturación y envío."
+
+#: woocommerce/template/checkout/form-login.php:26
+msgid "Click here to login"
+msgstr "Haz clic aquí para acceder"
+
+#: woocommerce/template/checkout/form-login.php:26
+msgid "Returning customer?"
+msgstr "¿Ya eres cliente?"
+
+#: woocommerce/template/checkout/review-order.php:60
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: woocommerce/template/order/order-details.php:58
+#: woocommerce/template/checkout/review-order.php:27
+#: woocommerce/template/checkout/review-order.php:107
+msgid "Total"
+msgstr "Total"
+
+#: woocommerce/template/order/order-details.php:57
+#: woocommerce/template/checkout/review-order.php:26
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:762
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:129
+msgid "Product"
+msgstr "Producto"
+
+#: woocommerce/template/checkout/form-coupon.php:38
+msgid "Apply coupon"
+msgstr "Aplicar cupón"
+
+#: woocommerce/template/checkout/form-coupon.php:34
+msgid "Coupon code"
+msgstr "Código de cupón"
+
+#: woocommerce/template/checkout/form-coupon.php:31
+msgid "If you have a coupon code, please apply it below."
+msgstr "Si tienes un código de cupón, por favor, aplícalo abajo."
+
+#: woocommerce/template/checkout/form-coupon.php:26
+msgid "Click here to enter your code"
+msgstr "Haz clic aquí para introducir tu código"
+
+#. Translators: $s shipping destination.
+#: woocommerce/template/cart/cart-shipping.php:52
+msgid "Change address"
+msgstr "Cambiar la dirección"
+
+#. Translators: $s shipping destination.
+#: woocommerce/template/cart/cart-shipping.php:51
+msgid "Estimate for %s."
+msgstr "Estimado en %s."
+
+#: woocommerce/template/checkout/form-checkout.php:56
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:276
+msgid "Your order"
+msgstr "Tu pedido"
+
+#: woocommerce/template/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Tienes que iniciar sesión para pagar."
+
+#: woocommerce/template/checkout/form-billing.php:59
+msgid "Create an account?"
+msgstr "¿Crear una cuenta?"
+
+#: woocommerce/template/checkout/form-billing.php:31
+msgid "Billing details"
+msgstr "Detalles de facturación"
+
+#: woocommerce/template/checkout/form-billing.php:27
+msgid "Billing &amp; Shipping"
+msgstr "Facturación y envío"
+
+#: woocommerce/template/checkout/thankyou.php:74
+msgid "Payment method:"
+msgstr "Método de pago:"
+
+#: woocommerce/template/checkout/thankyou.php:67
+msgid "Total:"
+msgstr "Total:"
+
+#: woocommerce/template/checkout/thankyou.php:60
+msgid "Email:"
+msgstr "Correo electrónico:"
+
+#: woocommerce/template/checkout/thankyou.php:54
+msgid "Date:"
+msgstr "Fecha:"
+
+#: woocommerce/template/checkout/form-coupon.php:26
+msgid "Have a coupon?"
+msgstr "¿Tienes un cupón?"
+
+#: admin-legacy/class-cartflows-legacy-importer.php:848
+msgid "In rare case, it is possible your website is having trouble connecting with ours. If you need help, please feel free to get in touch with us from our website.."
+msgstr "En raras ocasiones, es posible que tu sitio web tenga problemas para conectarse con el nuestro. Si necesitas ayuda, no dudes en ponerte en contacto con nosotros desde nuestra web..."
+
+#: admin-legacy/class-cartflows-legacy-importer.php:847
+msgid "If you are seeing this message, most likely our servers are under routine maintenance and we will be back shortly."
+msgstr "Si estás viendo este mensaje, lo más probable es que nuestros servidores estén bajo mantenimiento programado y volveremos en breve."
+
+#: admin-legacy/class-cartflows-legacy-importer.php:846
+msgid "Under Maintenance.."
+msgstr "En mantenimiento..."
+
+#: classes/class-cartflows-wizard.php:408
+#: admin-legacy/includes/admin/cartflows-general.php:107
+#: admin-core/inc/global-settings.php:66
+msgid "Other"
+msgstr "Otro"
+
+#: admin-legacy/includes/admin/cartflows-general.php:100
+msgid "CartFlows offers flow templates that can be imported in one click. These templates are available in few different page builders. Please choose your preferred page builder from the list so you will only see templates that are made using that page builder.."
+msgstr "CartFlows ofrece plantillas de flujo que se pueden importar con un solo clic. Estas plantillas están disponibles para algunos maquetadores de páginas diferentes. Por favor, elige tu maquetador de páginas preferido de la lista para que sólo veas las plantillas hechas con ese maquetador de páginas..."
+
+#: admin-legacy/includes/admin/cartflows-general.php:99
+msgid "Show Templates designed with"
+msgstr "Mostrar plantillas diseñadas con"
+
+#: admin-legacy/class-cartflows-legacy-importer.php:1748
+msgid "Plugin Successfully Activated"
+msgstr "Plugin activado correctamente"
+
+#: admin-legacy/class-cartflows-legacy-importer.php:686
+#: admin-legacy/class-cartflows-legacy-importer.php:785
+#: admin-legacy/class-cartflows-admin-classes.php:573
+#: modules/flow/view/view-remote-importer.php:72
+msgid "Learn How"
+msgstr "Más información sobre cómo hacerlo"
+
+#: admin-legacy/class-cartflows-legacy-importer.php:283
+msgid "Please upload a file to import"
+msgstr "Por favor, sube un archivo para importar"
+
+#: admin-legacy/class-cartflows-legacy-importer.php:277
+msgid "Please upload a valid .json file"
+msgstr "Por favor, sube un archivo .json válido"
+
+#: admin-legacy/class-cartflows-legacy-importer.php:103
+msgid "No post to export has been supplied!"
+msgstr "¡No se ha suministrado ninguna entrada para exportar!"
+
+#: admin-legacy/class-cartflows-legacy-importer.php:92
+msgid "Flow Import"
+msgstr "Importar flujo"
+
+#: admin-legacy/class-cartflows-legacy-importer.php:91
+msgid "Flow Export"
+msgstr "Exportar flujo"
+
+#: admin-legacy/class-cartflows-legacy-importer.php:80
+#: admin-legacy/includes/exporter.php:18 admin-core/api/flows.php:175
+#: admin-core/inc/admin-menu.php:389 admin-core/inc/admin-menu.php:419
+#: admin-core/assets/build/settings-app.js:1
+msgid "Export"
+msgstr "Exportar"
+
+#: admin-legacy/class-cartflows-legacy-importer.php:80
+msgid "Export this flow"
+msgstr "Exportar este flujo"
+
+#: admin-legacy/includes/exporter.php:13
+msgid "This tool allows you to generate and download a JSON file containing a list of all flows."
+msgstr "Esta herramienta permite generar y bajar un archivo JSON que contiene una lista de todos los flujos."
+
+#: admin-legacy/includes/exporter.php:12
+msgid "Export Flows to a JSON file"
+msgstr "Exportar flujos a un archivo JSON"
+
+#: admin-legacy/includes/importer.php:13
+msgid "This tool allows you to import the flows from the JSON file."
+msgstr "Esta herramienta permite importar los flujos de un archivo JSON."
+
+#: admin-legacy/includes/importer.php:12
+msgid "Import Flows to a JSON file"
+msgstr "Importar flujos de un archivo JSON"
+
+#: admin-legacy/class-cartflows-legacy-importer.php:523
+msgid "Successfully imported flows."
+msgstr "Flujos importados correctamente."
+
+#: classes/class-cartflows-flow-frontend.php:53
+msgid "Test mode is active — which displays random products for previewing. It can be deactivated from the flow settings in the admin dashboard."
+msgstr "El modo de prueba está activo, este modo muestra productos aleatorios para la vista previa. Puede desactivarse desde los ajustes de flujo en el escritorio del administrador."
+
+#: admin-legacy/class-cartflows-admin-classes.php:572
+#: admin-core/assets/build/settings-app.js:1
+msgid "Design Your Flow"
+msgstr "Diseña tu flujo"
+
+#: admin-legacy/class-cartflows-legacy-importer.php:896
+#: admin-core/assets/build/editor-app.js:1
+msgid "Select Step Type"
+msgstr "Selecciona el tipo de paso"
+
+#: admin-legacy/class-cartflows-legacy-importer.php:893
+msgid "All"
+msgstr "Todos"
+
+#: admin-legacy/class-cartflows-legacy-importer.php:602
+#: admin-legacy/class-cartflows-legacy-importer.php:614
+msgid "Coming Soon!"
+msgstr "¡Próximamente!"
+
+#: modules/flow/view/view-remote-importer.php:68
+#: admin-core/assets/build/editor-app.js:1
+msgid "Create Step"
+msgstr "Crear paso"
+
+#: admin-legacy/class-cartflows-admin-classes.php:543
+#: modules/flow/view/view-remote-importer.php:29
+#: admin-core/assets/build/editor-app.js:1
+msgid "Create Your Own"
+msgstr "Crea el tuyo propio"
+
+#: admin-legacy/class-cartflows-admin-classes.php:540
+#: modules/flow/view/view-remote-importer.php:26
+#: admin-core/assets/build/editor-app.js:1
+msgid "Ready Templates"
+msgstr "Plantillas disponibles"
+
+#: modules/flow/view/view-remote-importer.php:19
+#: admin-core/assets/build/editor-app.js:1
+msgid "Steps Library"
+msgstr "Biblioteca de pasos"
+
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:120
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:448
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:280
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:185
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:152
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:87
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:146
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:194
+msgid "Floating Labels"
+msgstr "Etiquetas flotantes"
+
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:109
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:437
+msgid "Floating Labels (Available in CartFlows Pro)"
+msgstr "Etiquetas flotantes (Disponible en CartFlows Pro)"
+
+#. translators: %s: link
+#: admin-legacy/modules/checkout/class-cartflows-checkout-meta.php:469
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:334
+msgid "Upgrade to %1$sCartFlows Pro%2$s for Custom Fields feature."
+msgstr "Actualiza a %1$sCartFlows Pro%2$s para la característica de campos personalizados."
+
+#. translators: %s: link
+#: admin-legacy/modules/checkout/class-cartflows-checkout-meta.php:442
+msgid "Upgrade to %1$sCartFlows Pro%2$s for Order Bump feature."
+msgstr "Actualiza a %1$sCartFlows Pro%2$s para la característica de incremento de pedido."
+
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:1084
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:1133
+#: admin-core/assets/build/settings-app.js:1
+msgid "Apply"
+msgstr "Aplicar"
+
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:1083
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:1124
+msgid "Coupon Code"
+msgstr "Código de cupón"
+
+#: modules/flow/view/view-flow-inner-step.php:48
+#: admin-core/assets/build/editor-app.js:1
+msgid "Global Checkout - Remove selected checkout product"
+msgstr "Pago global - Quitar producto del pago selecionado"
+
+#. translators: %s: link
+#: admin-legacy/class-cartflows-admin-fields.php:270
+msgid "Be sure not to add any product in above selected Global Checkout step. Please read information about how to set up Global Checkout %1$shere%2$s."
+msgstr "Asegúrate de no añadir ningún producto en el paso de pago global seleccionado anteriormente. Por favor, lee la información sobre cómo configurar el pago global %1$saquí%2$s."
+
+#: classes/class-cartflows-wizard.php:128
+msgid "Welcome"
+msgstr "Bienvenido"
+
+#: classes/class-cartflows-wizard.php:327
+msgid "Lets Go »"
+msgstr "Vamos »"
+
+#. translators: %s flow id
+#: admin-legacy/modules/flow/class-cartflows-flow-meta.php:305
+#: admin-core/ajax/steps.php:317
+msgid "Step deleted for flow - %s"
+msgstr "Paso borrado para el flujo - %s"
+
+#: classes/class-cartflows-wizard.php:257
+msgid "Exit Setup Wizard"
+msgstr "Salir del asistente de configuración"
+
+#: classes/class-cartflows-wizard.php:95
+msgid "It is easy to use the CartFlows. Please use the setup wizard to quick start setup."
+msgstr "Usar CartFlows es fácil. Por favor, utiliza el asistente de configuración para iniciar la configuración rápidamente."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://cartflows.com/"
+msgstr "https://cartflows.com/"
+
+#: classes/class-cartflows-wizard.php:674
+msgid "Create a flow"
+msgstr "Crea un flujo"
+
+#: classes/class-cartflows-wizard.php:444
+msgid "Next »"
+msgstr "Siguiente »"
+
+#: classes/class-cartflows-wizard.php:440
+#: classes/class-cartflows-wizard.php:485
+#: classes/class-cartflows-wizard.php:717
+msgid "« Previous"
+msgstr "« Anterior"
+
+#: classes/class-cartflows-wizard.php:433
+#: classes/class-cartflows-wizard.php:475
+msgid "The following plugin will be installed and activated for you:"
+msgstr "Los siguientes plugins serán instalados y activados:"
+
+#: classes/class-cartflows-wizard.php:361
+msgid "Select Page Builder"
+msgstr "Seleccionar el maquetador de páginas"
+
+#: classes/class-cartflows-wizard.php:220
+msgid "CartFlows Setup"
+msgstr "Configuración de CartFlows"
+
+#: classes/class-cartflows-wizard.php:145
+msgid "Ready!"
+msgstr "¡Listo!"
+
+#: classes/class-cartflows-wizard.php:133
+msgid "Page Builder"
+msgstr "Maquetador de páginas"
+
+#: classes/class-cartflows-wizard.php:94
+msgid "Thanks for installing and using CartFlows!"
+msgstr "¡Gracias por instalar y usar CartFlows!"
+
+#: classes/class-cartflows-wizard.php:388
+#: admin-legacy/includes/admin/cartflows-general.php:105
+#: admin-core/inc/global-settings.php:58
+msgid "Divi"
+msgstr "Divi"
+
+#: classes/class-cartflows-wizard.php:368
+#: classes/class-cartflows-wizard.php:434
+#: admin-legacy/includes/admin/cartflows-general.php:103
+#: admin-core/inc/global-settings.php:50
+msgid "Elementor"
+msgstr "Elementor"
+
+#: classes/class-cartflows-wizard.php:137
+msgid "Checkout"
+msgstr "Sistema de pago"
+
+#: admin-legacy/class-cartflows-admin-classes.php:533
+msgid "Flows Library"
+msgstr "Biblioteca de flujos"
+
+#: admin-legacy/class-cartflows-legacy-importer.php:1616
+msgid "Elementor is not activated. Please activate plugin Elementor Page Builder to import the step."
+msgstr "Elementor no está activado. Por favor, activa el plugin Elementor Page Builder para importar el paso."
+
+#. translators: %s: flow ID
+#: admin-legacy/class-cartflows-legacy-importer.php:1491
+msgid "Invalid flow id %1$s OR step type %2$s."
+msgstr "El id. de flujo %1$s o el tipo de paso %2$s no son válidos."
+
+#. translators: %s: template ID
+#: admin-legacy/class-cartflows-legacy-importer.php:1416
+msgid "Invalid template id %1$s or post id %2$s."
+msgstr "El id. de plantilla %1$s o el id. de entrada %2$s no son válidos.\t\t"
+
+#: admin-legacy/class-cartflows-legacy-importer.php:980
+msgid "Import from Cloud"
+msgstr "Importar desde la nube"
+
+#: admin-legacy/class-cartflows-legacy-importer.php:747
+msgid "Create"
+msgstr "Crear"
+
+#: admin-legacy/class-cartflows-legacy-importer.php:722
+#: admin-legacy/class-cartflows-legacy-importer.php:829
+#: admin-legacy/modules/flow/class-cartflows-flow-meta.php:505
+msgid "Get Pro"
+msgstr "Consigue la Pro"
+
+#: admin-legacy/class-cartflows-legacy-importer.php:720
+#: admin-legacy/class-cartflows-legacy-importer.php:827
+msgid "Activate License"
+msgstr "Activar la licencia"
+
+#: admin-legacy/class-cartflows-legacy-importer.php:679
+#: admin-legacy/class-cartflows-legacy-importer.php:795
+msgid "Pro"
+msgstr "Pro"
+
+#: admin-legacy/includes/importer.php:21
+#: admin-core/assets/build/settings-app.js:1
+msgid "Import"
+msgstr "Importar"
+
+#: admin-legacy/class-cartflows-legacy-importer.php:633
+msgid "Redirecting to the Elementor edit window."
+msgstr "Redirecionando a la ventana de edición de Elementor."
+
+#: admin-legacy/class-cartflows-legacy-importer.php:593
+#: admin-legacy/class-cartflows-legacy-importer.php:633
+msgid "Thanks for patience"
+msgstr "Gracias por tu paciencia"
+
+#: admin-legacy/class-cartflows-legacy-importer.php:592
+#: admin-legacy/class-cartflows-legacy-importer.php:632
+msgid "Imported"
+msgstr "Importado"
+
+#: admin-legacy/class-cartflows-legacy-importer.php:583
+msgid "Importing.."
+msgstr "Importando..."
+
+#: classes/class-cartflows-meta-fields.php:65
+msgid "Medium 500"
+msgstr "Medio 500"
+
+#: classes/class-cartflows-meta-fields.php:64
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: classes/class-cartflows-meta-fields.php:63
+msgid "Light 300"
+msgstr "Ligero 300"
+
+#: classes/class-cartflows-meta-fields.php:62
+msgid "Extra-Light 200"
+msgstr "Extra ligero 200"
+
+#: classes/class-cartflows-meta-fields.php:61
+msgid "Thin 100"
+msgstr "Delgado 100"
+
+#: classes/importer/class-cartflows-api.php:427
+msgid "Request successfully processed!"
+msgstr "¡Solicitud procesada con éxito!"
+
+#: admin-legacy/includes/admin/cartflows-admin.php:29
+msgid "Settings saved successfully."
+msgstr "Ajustes guardados correctamente."
+
+#: classes/class-cartflows-admin.php:91
+#: admin-legacy/modules/thankyou/class-cartflows-thankyou-meta.php:140
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:151
+#: admin-legacy/class-cartflows-admin-classes.php:153
+#: admin-legacy/class-cartflows-admin-classes.php:154
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:54
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:111
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:91
+#: modules/landing/classes/class-cartflows-landing-meta-data.php:54
+#: admin-core/inc/admin-menu.php:270 admin-core/inc/admin-menu.php:271
+#: admin-core/assets/build/settings-app.js:1
+#: admin-core/assets/build/editor-app.js:1
+msgid "Settings"
+msgstr "Ajustes"
+
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:207
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:871
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:156
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:169
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:157
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:291
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:128
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:161
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:90
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:445
+#: modules/landing/classes/class-cartflows-landing-meta-data.php:102
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/blocks/order-detail-form/edit.js:625
+#: modules/gutenberg/src/blocks/next-step-button/edit.js:257
+#: modules/gutenberg/src/blocks/optin-form/edit.js:223
+msgid "General"
+msgstr "General"
+
+#: admin-legacy/includes/admin/cartflows-general.php:483
+#: admin-legacy/includes/admin/cartflows-home.php:80
+msgid "Submit a Ticket »"
+msgstr "Enviar un tique »"
+
+#: admin-legacy/includes/admin/cartflows-general.php:480
+#: admin-legacy/includes/admin/cartflows-home.php:77
+msgid "Got a question? Get in touch with CartFlows developers. We're happy to help!"
+msgstr "¿Tienes alguna pregunta? Ponte en contacto con los desarrolladores de CartFlows ¡Estaremos encantados de ayudarte!"
+
+#: admin-legacy/includes/admin/cartflows-general.php:476
+#: admin-legacy/includes/admin/cartflows-home.php:73
+msgid "Five Star Support"
+msgstr "Soporte cinco estrellas"
+
+#: admin-legacy/includes/admin/cartflows-general.php:468
+#: admin-legacy/includes/admin/cartflows-home.php:65
+msgid "Join Our Facebook Group »"
+msgstr "Únete a nuestro grupo en Facebook »"
+
+#: admin-legacy/includes/admin/cartflows-general.php:465
+#: admin-legacy/includes/admin/cartflows-home.php:62
+msgid "Join the community of super helpful CartFlows users. Say hello, ask questions, give feedback and help each other!"
+msgstr "Únete a la comunidad de usuarios súper serviciales de CartFlows. ¡Saluda, haz preguntas, da tu opinión y ayudaos mutuamente!"
+
+#: admin-legacy/class-cartflows-meta.php:34
+msgid "Update"
+msgstr "Actualizar"
+
+#: admin-legacy/class-cartflows-admin-fields.php:244
+msgid "No Checkout Steps"
+msgstr "No hay pasos de finalizar compra"
+
+#: admin-legacy/class-cartflows-admin-fields.php:241
+#: admin-core/inc/admin-helper.php:315 admin-core/assets/build/editor-app.js:2
+msgid "Select"
+msgstr "Seleccionar"
+
+#: classes/importer/batch-process/class-cartflows-importer-elementor.php:60
+msgid "Invalid content. Expected an array."
+msgstr "El contenido no es válido. Se esperaba un array."
+
+#: classes/class-cartflows-meta-fields.php:816
+msgid "Search for a coupon&hellip;"
+msgstr "Buscar un cupón&hellip;"
+
+#: classes/class-cartflows-meta-fields.php:765
+#: includes/meta-fields/generate-product-repeater.php:30
+msgid "Search for a product&hellip;"
+msgstr "Buscar un producto&hellip;"
+
+#: classes/class-cartflows-cloning.php:427
+#: admin-legacy/modules/flow/class-cartflows-flow-meta.php:826
+#: admin-core/api/flow-data.php:212 admin-core/api/flow-data.php:286
+#: admin-core/api/flows.php:168 admin-core/assets/build/settings-app.js:1
+msgid "Clone"
+msgstr "Clonar"
+
+#: classes/class-cartflows-cloning.php:427
+msgid "Clone this flow"
+msgstr "Clonar este flujo"
+
+#: classes/class-cartflows-loader.php:573
+msgid "Install WooCommerce"
+msgstr "Instalar WooCommerce"
+
+#: classes/class-cartflows-loader.php:566
+msgid "Activate WooCommerce"
+msgstr "Activar WooCommerce"
+
+#. translators: %s: html tags
+#: classes/class-cartflows-loader.php:556
+msgid "This %1$sCartFlows%2$s page requires %1$sWooCommerce%2$s plugin installed & activated."
+msgstr "Esta página de %1$sCartFlows%2$s requiere el plugin %1$sWooCommerce%2$s instalado y activado."
+
+#. Translators: %d: interval
+#: classes/importer/batch-process/helpers/class-wp-background-process.php:436
+msgid "Every %d Minutes"
+msgstr "Cada %d minutos"
+
+#: admin-legacy/class-cartflows-legacy-importer.php:572
+msgid "Searching Template.."
+msgstr "Buscando plantilla..."
+
+#: admin-legacy/class-cartflows-legacy-importer.php:559
+msgid "Loading Steps"
+msgstr "Cargando pasos"
+
+#: admin-legacy/class-cartflows-legacy-importer.php:561
+msgid "Getting steps from the cloud. Please wait for the moment."
+msgstr "Obteniendo pasos desde la nube. Por favor, espere un momento."
+
+#: classes/class-cartflows-meta-fields.php:67
+msgid "Bold 700"
+msgstr "Negrita 700"
+
+#: classes/class-cartflows-meta-fields.php:66
+msgid "Semi-Bold 600"
+msgstr "Seminegrita 600"
+
+#: classes/class-cartflows-meta-fields.php:68
+msgid "Extra-Bold 800"
+msgstr "Extra negrita 800"
+
+#: classes/class-cartflows-meta-fields.php:69
+msgid "Ultra-Bold 900"
+msgstr "Ultranegrita 900"
+
+#: includes/meta-fields/generate-product-repeater.php:36
+#: admin-core/assets/build/editor-app.js:2
+msgid "Remove"
+msgstr "Quitar"
+
+#: admin-legacy/includes/admin/cartflows-general.php:446
+#: admin-legacy/includes/admin/cartflows-home.php:43
+msgid "Knowledge Base"
+msgstr "Base de conocimiento"
+
+#: admin-legacy/includes/admin/cartflows-general.php:453
+#: admin-legacy/includes/admin/cartflows-home.php:50
+msgid "Visit Knowledge Base »"
+msgstr "Visita la base de conocimiento »"
+
+#: admin-legacy/includes/admin/cartflows-general.php:450
+#: admin-legacy/includes/admin/cartflows-home.php:47
+msgid "Not sure how something works? Take a peek at the knowledge base and learn."
+msgstr "¿No estás seguro de cómo funciona algo? Echa un vistazo a la base de conocimiento y aprende."
+
+#: admin-legacy/includes/admin/cartflows-general.php:116
+#: admin-legacy/includes/admin/cartflows-general.php:202
+#: admin-legacy/includes/admin/cartflows-general.php:308
+#: admin-legacy/includes/admin/cartflows-general.php:425
+msgid "Save Changes"
+msgstr "Guardar los cambios"
+
+#: admin-legacy/includes/admin/cartflows-general.php:90
+#: modules/flow/view/view-flow-inner-step.php:52
+#: admin-core/inc/global-settings.php:35
+#: admin-core/assets/build/editor-app.js:1
+msgid "Global Checkout"
+msgstr "Pago global"
+
+#: admin-legacy/includes/admin/cartflows-general.php:80
+msgid "Disallow search engines from indexing flows"
+msgstr "No permitir a los motores de búsqueda indexar flujos "
+
+#: admin-legacy/includes/admin/cartflows-home.php:28
+#: admin-core/assets/build/settings-app.js:1
+msgid "Modernizing WordPress eCommerce!"
+msgstr "¡Modernizando el comercio eletrónico en WordPress!"
+
+#: admin-legacy/includes/admin/cartflows-home.php:20
+#: admin-core/assets/build/settings-app.js:1
+msgid "Getting Started"
+msgstr "Cómo empezar"
+
+#: admin-legacy/includes/admin/cartflows-general.php:31
+#: admin-legacy/includes/admin/cartflows-general.php:67
+#: admin-core/assets/build/settings-app.js:1
+msgid "General Settings"
+msgstr "Ajustes generales"
+
+#: modules/widgets/class-cartflows-next-step.php:131
+msgid "Step ID:"
+msgstr "Id. del paso:"
+
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:629
+msgid "Variations Not set"
+msgstr "Variaciones no establecidas"
+
+#: modules/checkout/templates/wcf-template.php:50
+msgid "All Rights Reserved"
+msgstr "Todos los derechos reservados."
+
+#: modules/checkout/templates/wcf-template.php:46
+msgid "Copyright &copy;"
+msgstr "Copyright ©"
+
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:461
+#: modules/checkout/templates/embed/checkout-template-simple.php:24
+#: modules/checkout/templates/wcf-template.php:36
+#: modules/optin/templates/optin-template-simple.php:25
+msgid "Your cart is currently empty."
+msgstr "Tu carrito está vacío."
+
+#: admin-legacy/modules/landing/class-cartflows-landing-meta.php:171
+#: modules/landing/classes/class-cartflows-landing-meta-data.php:95
+msgid "Next Step Link"
+msgstr "Enlace al siguiente paso"
+
+#: admin-legacy/modules/thankyou/class-cartflows-thankyou-meta.php:244
+#: admin-legacy/modules/checkout/meta-views/design-checkout-metabox-markup.php:12
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:220
+#: admin-legacy/modules/landing/class-cartflows-landing-meta.php:130
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:857
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:431
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: admin-legacy/modules/landing/class-cartflows-landing-meta.php:66
+msgid "Landing Page Settings"
+msgstr "Ajustes de la página de destino"
+
+#. Author of the plugin
+msgid "CartFlows Inc"
+msgstr "CartFlows Inc"
+
+#. Description of the plugin
+msgid "Create beautiful checkout pages & sales flows for WooCommerce."
+msgstr "Crea hermosas páginas de pago y flujos de ventas para WooCommerce."
+
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:57
+msgid "Advance Options"
+msgstr "Opciones avanzadas"
+
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:40
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:410
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:182
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:302
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:177
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:109
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:189
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:167
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/blocks/checkout-form/edit.js:318
+#: modules/gutenberg/src/blocks/optin-form/edit.js:227
+msgid "Primary Color"
+msgstr "Color principal"
+
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:30
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:170
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:153
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:159
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:114
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:120
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/blocks/checkout-form/edit.js:255
+#: modules/gutenberg/src/blocks/checkout-form/edit.js:267
+msgid "Two Column"
+msgstr "Dos columnas"
+
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:29
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:166
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:158
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:119
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/blocks/checkout-form/edit.js:268
+msgid "One Column"
+msgstr "Una columna"
+
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:18
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:147
+msgid "One Column (Available in CartFlows Pro) "
+msgstr " Una columna (disponible en CartFlows Pro) "
+
+#: admin-legacy/modules/checkout/class-cartflows-checkout-meta.php:310
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:865
+msgid "Add this shortcode to your checkout page"
+msgstr "Añade este shortcode a tu página de pago"
+
+#: admin-legacy/modules/checkout/class-cartflows-checkout-meta.php:186
+msgid "Logo (Optional)"
+msgstr "Logo (opcional)"
+
+#: admin-legacy/modules/checkout/class-cartflows-checkout-meta.php:163
+msgid "Checkout Fields"
+msgstr "Campos de pago"
+
+#: admin-legacy/modules/checkout/class-cartflows-checkout-meta.php:151
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:90
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:717
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:811
+msgid "Order Bump"
+msgstr "Oferta de pedido"
+
+#: admin-legacy/modules/checkout/class-cartflows-checkout-meta.php:139
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:139
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:770
+msgid "Select Product"
+msgstr "Selecciona un producto"
+
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:640
+msgid "This product can't be purchased"
+msgstr "No se puede comprar este producto"
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:162
+msgctxt "flow step singular name"
+msgid "Step"
+msgstr "Paso"
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:161
+msgctxt "flow step general name"
+msgid "Steps"
+msgstr "Pasos"
+
+#. translators: %s: singular custom post type name
+#: modules/flow/classes/class-cartflows-flow-post-type.php:346
+#: modules/flow/classes/class-cartflows-step-post-type.php:419
+msgid "%s draft updated."
+msgstr "Borrador de %s actualizado."
+
+#. translators: %s: singular custom post type name
+#: modules/flow/classes/class-cartflows-flow-post-type.php:344
+#: modules/flow/classes/class-cartflows-step-post-type.php:417
+msgid "%s scheduled for."
+msgstr "%s programado."
+
+#. translators: %s: singular custom post type name
+#: modules/flow/classes/class-cartflows-flow-post-type.php:342
+#: modules/flow/classes/class-cartflows-step-post-type.php:415
+msgid "%s submitted."
+msgstr "%s enviado."
+
+#. translators: %s: singular custom post type name
+#: modules/flow/classes/class-cartflows-flow-post-type.php:340
+#: modules/flow/classes/class-cartflows-step-post-type.php:413
+msgid "%s saved."
+msgstr "%s guardado."
+
+#. translators: %s: singular custom post type name
+#: modules/flow/classes/class-cartflows-flow-post-type.php:338
+#: modules/flow/classes/class-cartflows-step-post-type.php:411
+msgid "%s published."
+msgstr "%s publicado."
+
+#. translators: %1$s: singular custom post type name ,%2$s: date and time of
+#. the revision
+#: modules/flow/classes/class-cartflows-flow-post-type.php:336
+#: modules/flow/classes/class-cartflows-step-post-type.php:409
+msgid "%1$s restored to revision from %2$s"
+msgstr "%1$s restaurado a la revisión del %2$s"
+
+#. translators: %s: singular custom post type name
+#: modules/flow/classes/class-cartflows-flow-post-type.php:332
+#: modules/flow/classes/class-cartflows-step-post-type.php:405
+msgid "Custom %s deleted."
+msgstr "Borrado %s personalizado."
+
+#. translators: %s: singular custom post type name
+#: modules/flow/classes/class-cartflows-flow-post-type.php:330
+#: modules/flow/classes/class-cartflows-step-post-type.php:403
+msgid "Custom %s updated."
+msgstr "Actualizado %s personalizado."
+
+#. translators: %s: singular custom post type name
+#: modules/flow/classes/class-cartflows-flow-post-type.php:328
+#: modules/flow/classes/class-cartflows-flow-post-type.php:334
+#: modules/flow/classes/class-cartflows-step-post-type.php:401
+#: modules/flow/classes/class-cartflows-step-post-type.php:407
+msgid "%s updated."
+msgstr "%s actualizado."
+
+#: admin-legacy/class-cartflows-admin-classes.php:169
+#: admin-legacy/class-cartflows-admin-classes.php:170
+#: admin-core/inc/admin-menu.php:263 admin-core/inc/admin-menu.php:264
+#: admin-core/assets/build/settings-app.js:1
+#: admin-core/assets/build/editor-app.js:1
+#: admin-core/assets/build/editor-app.js:2
+msgid "Flows"
+msgstr "Flujos"
+
+#: admin-legacy/modules/flow/class-cartflows-flow-meta.php:806
+#: modules/flow/classes/class-cartflows-flow-post-type.php:225
+#: includes/admin/cartflows-error-log.php:42 admin-core/api/flow-data.php:253
+#: admin-core/api/flow-data.php:323 admin-core/api/flows.php:152
+#: admin-core/views/debugger.php:36 admin-core/assets/build/settings-app.js:1
+#: admin-core/assets/build/editor-app.js:1
+#: admin-core/assets/build/editor-app.js:2
+msgid "View"
+msgstr "Ver"
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:108
+msgid "New Flow Name"
+msgstr "Nombre del nuevo flujo"
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:106
+msgid "Update Flow"
+msgstr "Actualizar flujo"
+
+#: admin-legacy/includes/admin/cartflows-general.php:461
+#: admin-legacy/includes/admin/cartflows-home.php:58
+msgid "Community"
+msgstr "Comunidad"
+
+#: modules/widgets/class-cartflows-next-step.php:127
+msgid "Flow ID:"
+msgstr "Id. de flujo:"
+
+#: modules/widgets/class-cartflows-next-step.php:123
+msgid "Title:"
+msgstr "Título:"
+
+#: modules/widgets/class-cartflows-next-step.php:106
+msgid "New title"
+msgstr "Nuevo título"
+
+#: admin-legacy/modules/thankyou/class-cartflows-thankyou-meta.php:311
+#: admin-legacy/modules/thankyou/class-cartflows-thankyou-meta.php:342
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:49
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:84
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:130
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:222
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:419
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:458
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:570
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:99
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:120
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:187
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:237
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:297
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:462
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:173
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:202
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:301
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/components/typography/font-typography.js:196
+msgid "Font Family"
+msgstr "Familia de fuentes"
+
+#: modules/widgets/class-cartflows-next-step.php:78
+#: modules/flow/classes/class-cartflows-flow-shortcodes.php:148
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:136
+msgid "Next Step"
+msgstr "Paso siguiente"
+
+#: admin-legacy/modules/flow/class-cartflows-flow-meta.php:522
+msgid "Flow Settings"
+msgstr "Ajustes del flujo"
+
+#. translators: %s flow id
+#: admin-legacy/modules/flow/class-cartflows-flow-meta.php:382
+#: admin-core/ajax/flows.php:939
+msgid "Steps sorted for flow - %s"
+msgstr "Pasos ordenados para el flujo - %s"
+
+#. translators: %s flow id
+#: admin-legacy/modules/flow/class-cartflows-flow-meta.php:346
+#: admin-core/ajax/flows.php:903
+msgid "Steps not sorted for flow - %s"
+msgstr "Pasos no ordenados para el flujo - %s"
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:170
+msgid "New Step Name"
+msgstr "Nombre del nuevo paso"
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:168
+msgid "Update Step"
+msgstr "Actualizar paso"
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:164
+#: admin-core/assets/build/editor-app.js:1
+msgid "All Steps"
+msgstr "Todos los pasos"
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:163
+msgid "Search Steps"
+msgstr "Buscar pasos"
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:105
+#: modules/flow/classes/class-cartflows-flow-post-type.php:107
+#: modules/flow/classes/class-cartflows-step-post-type.php:167
+#: modules/flow/classes/class-cartflows-step-post-type.php:169
+#: admin-core/assets/build/settings-app.js:1
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:104
+#: admin-core/assets/build/settings-app.js:1
+msgid "View Flow"
+msgstr "Ver flujo"
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:103
+#: admin-core/assets/build/settings-app.js:1
+msgid "Edit Flow"
+msgstr "Editar flujo"
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:102
+msgid "All Flows"
+msgstr "Todos los flujos"
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:101
+#: admin-core/assets/build/settings-app.js:1
+msgid "Search Flows"
+msgstr "Buscar flujos"
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:100
+msgctxt "flow singular name"
+msgid "Flow"
+msgstr "Flujo"
+
+#: modules/flow/classes/class-cartflows-flow-post-type.php:99
+msgctxt "flow general name"
+msgid "Flows"
+msgstr "Flujos"
+
+#: admin-legacy/class-cartflows-admin-classes.php:555
+#: modules/flow/view/view-remote-importer.php:42
+msgid "Search Flow..."
+msgstr "Buscar flujo..."
+
+#: admin-legacy/class-cartflows-admin-classes.php:554
+#: modules/flow/view/view-remote-importer.php:41
+msgid "Search Sites"
+msgstr "Buscar sitios"
+
+#: admin-legacy/includes/admin/cartflows-general.php:104
+#: admin-core/inc/global-settings.php:54
+msgid "Beaver Builder"
+msgstr "Beaver Builder"
+
+#: admin-legacy/modules/thankyou/class-cartflows-thankyou-meta.php:302
+#: admin-legacy/modules/thankyou/class-cartflows-thankyou-meta.php:333
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:93
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:114
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:404
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/blocks/order-detail-form/edit.js:925
+#: modules/gutenberg/src/blocks/order-detail-form/edit.js:1285
+#: modules/gutenberg/src/blocks/order-detail-form/edit.js:1722
+#: modules/gutenberg/src/blocks/order-detail-form/edit.js:2159
+#: modules/gutenberg/src/blocks/order-detail-form/edit.js:2600
+#: modules/gutenberg/src/blocks/checkout-form/edit.js:456
+#: modules/gutenberg/src/blocks/checkout-form/edit.js:476
+#: modules/gutenberg/src/blocks/checkout-form/edit.js:655
+#: modules/gutenberg/src/blocks/checkout-form/edit.js:742
+#: modules/gutenberg/src/blocks/checkout-form/edit.js:1209
+#: modules/gutenberg/src/blocks/next-step-button/edit.js:494
+#: modules/gutenberg/src/blocks/next-step-button/edit.js:741
+#: modules/gutenberg/src/blocks/optin-form/edit.js:879
+msgid "Color"
+msgstr "Color"
+
+#: admin-legacy/modules/thankyou/class-cartflows-thankyou-meta.php:296
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:109
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:135
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/blocks/next-step-button/edit.js:471
+#: admin-core/assets/build/editor-app.js:2
+msgid "Text"
+msgstr "Texto"
+
+#: admin-legacy/modules/thankyou/class-cartflows-thankyou-meta.php:284
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:199
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:185
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:591
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:116
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:357
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/blocks/order-detail-form/edit.js:2050
+msgid "Order Details"
+msgstr "Detalles del pedido"
+
+#: admin-legacy/modules/checkout/class-cartflows-checkout-meta.php:565
+msgid "Logo Width (In px)"
+msgstr "Ancho del logo (en px)"
+
+#: admin-legacy/modules/checkout/class-cartflows-checkout-meta.php:557
+msgid "Header Logo"
+msgstr "Logo de la cabecera"
+
+#: modules/widgets/class-cartflows-next-step.php:26
+msgid "Next Step Widgets"
+msgstr "Widgets del paso siguiente"
+
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:330
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:667
+msgid "Highlight Area Background Color"
+msgstr "Color de resaltado del fondo del área"
+
+#: admin-legacy/modules/flow/class-cartflows-flow-meta.php:607
+#: admin-core/inc/flow-meta.php:61
+msgid "Enable Test Mode"
+msgstr "Activar el modo de pruebas"
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:316
+msgctxt "cartflows"
+msgid "Template for Page Builders"
+msgstr "Plantilla para maquetadores de páginas"
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:221
+msgid "Step Flow"
+msgstr "Paso de flujo"
+
+#: admin-legacy/modules/flow/class-cartflows-flow-meta.php:95
+#: admin-legacy/modules/flow/class-cartflows-flow-meta.php:765
+#: admin-legacy/class-cartflows-meta.php:42
+msgid "Back to edit Flow"
+msgstr "Volver para editar el flujo"
+
+#: modules/flow/view/view-flow-inner-step.php:44
+#: admin-core/assets/build/editor-app.js:1
+msgid "No Product Assigned"
+msgstr "Ningún producto asignado"
+
+#: admin-legacy/class-cartflows-legacy-importer.php:1306
+#: admin-core/ajax/importer.php:492
+msgid "Thank You"
+msgstr "Gracias"
+
+#: admin-legacy/class-cartflows-legacy-importer.php:1302
+#: modules/flow/classes/class-cartflows-step-post-type.php:239
+#: modules/flow/view/meta-flow-steps.php:11 admin-core/ajax/importer.php:488
+msgid "Landing"
+msgstr "Destino"
+
+#: admin-legacy/modules/thankyou/class-cartflows-thankyou-meta.php:415
+msgid "Enable Shipping Details "
+msgstr "Activar detalles de envío"
+
+#: admin-legacy/modules/thankyou/class-cartflows-thankyou-meta.php:407
+msgid "Enable Billing Details "
+msgstr "Activar detalles de facturación"
+
+#: admin-legacy/modules/thankyou/class-cartflows-thankyou-meta.php:399
+msgid "Enable Order Details "
+msgstr "Activar detalles de pedido"
+
+#: admin-legacy/modules/thankyou/class-cartflows-thankyou-meta.php:391
+msgid "Enable Order Overview "
+msgstr "Activar resumen del pedido"
+
+#: admin-legacy/modules/thankyou/class-cartflows-thankyou-meta.php:377
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:159
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:851
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:689
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/blocks/checkout-form/edit.js:1409
+msgid "Section Background Color"
+msgstr "Color de fondo de la sección"
+
+#: admin-legacy/modules/thankyou/class-cartflows-thankyou-meta.php:369
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:143
+msgid "Container Width (In px)"
+msgstr "Ancho del contenedor (en px)"
+
+#: admin-legacy/modules/thankyou/class-cartflows-thankyou-meta.php:359
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:133
+msgid "Advanced Options"
+msgstr "Opciones avanzadas"
+
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:324
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:653
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:356
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/blocks/order-detail-form/edit.js:820
+msgid "Sections"
+msgstr "Secciones"
+
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:295
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:656
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:607
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:429
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:310
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:488
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:394
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/blocks/checkout-form/edit.js:851
+msgid "Background Hover Color"
+msgstr "Color del fondo al pasar el cursor"
+
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:311
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:672
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:637
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:771
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:446
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:448
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:327
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:397
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:605
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:406
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/blocks/checkout-form/edit.js:1342
+#: modules/gutenberg/src/blocks/next-step-button/edit.js:1237
+#: modules/gutenberg/src/blocks/optin-form/edit.js:853
+msgid "Border Hover Color"
+msgstr "Color del borde al pasar el cursor "
+
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:279
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:640
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:577
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:407
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:282
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:444
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:382
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/blocks/checkout-form/edit.js:828
+msgid "Text Hover Color"
+msgstr "Color del texto al pasar el cursor"
+
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:115
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:443
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:270
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:451
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:216
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:179
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:182
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:102
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:131
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:182
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:255
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:146
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:184
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/blocks/checkout-form/edit.js:435
+#: modules/gutenberg/src/blocks/next-step-button/edit.js:729
+#: modules/gutenberg/src/blocks/optin-form/edit.js:330
+msgid "Style"
+msgstr "Estilo"
+
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:101
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:430
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:256
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:443
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:208
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:127
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:251
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:180
+msgid "Input Fields"
+msgstr "Campos de entrada"
+
+#: admin-legacy/modules/thankyou/class-cartflows-thankyou-meta.php:351
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:93
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:139
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:231
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:467
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:579
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/components/typography/font-typography.js:212
+msgid "Font Weight"
+msgstr "Peso de la tipografía"
+
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:271
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:632
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:562
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:364
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:659
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:754
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:825
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:323
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:372
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:402
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:468
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:527
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:558
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:619
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:649
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:708
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:738
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:375
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:435
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:358
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:393
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:268
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:197
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:225
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:420
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:653
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:193
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:221
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:249
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:319
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:385
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:451
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:376
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/blocks/order-detail-form/edit.js:745
+#: modules/gutenberg/src/blocks/order-detail-form/edit.js:825
+#: modules/gutenberg/src/blocks/order-detail-form/edit.js:898
+#: modules/gutenberg/src/blocks/order-detail-form/edit.js:1256
+#: modules/gutenberg/src/blocks/order-detail-form/edit.js:1618
+#: modules/gutenberg/src/blocks/order-detail-form/edit.js:1693
+#: modules/gutenberg/src/blocks/order-detail-form/edit.js:2055
+#: modules/gutenberg/src/blocks/order-detail-form/edit.js:2130
+#: modules/gutenberg/src/blocks/order-detail-form/edit.js:2496
+#: modules/gutenberg/src/blocks/order-detail-form/edit.js:2571
+#: modules/gutenberg/src/blocks/checkout-form/edit.js:334
+#: modules/gutenberg/src/blocks/checkout-form/edit.js:777
+#: modules/gutenberg/src/blocks/optin-form/edit.js:654
+#: modules/gutenberg/src/blocks/optin-form/edit.js:704
+msgid "Text Color"
+msgstr "Color del texto"
+
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:75
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:221
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:296
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:361
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:427
+msgid "Heading Color"
+msgstr "Color del encabezado"
+
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:25
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:159
+msgid "Checkout Skin"
+msgstr "Apariencia del pago"
+
+#: admin-legacy/modules/checkout/meta-views/design-checkout-metabox-markup.php:18
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:154
+msgid "Checkout Design"
+msgstr "Diseño del pago"
+
+#: modules/checkout/classes/class-cartflows-checkout-markup.php:391
+msgid "Checkout ID not found"
+msgstr "Id. de pago no encontrado"
+
+#: admin-legacy/modules/thankyou/class-cartflows-thankyou-meta.php:327
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:69
+#: modules/thankyou/classes/class-cartflows-thankyou-meta-data.php:88
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:207
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:396
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:290
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:509
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:602
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:691
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:221
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:189
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/blocks/order-detail-form/edit.js:710
+#: modules/gutenberg/src/blocks/order-detail-form/edit.js:823
+#: modules/gutenberg/src/blocks/order-detail-form/edit.js:1616
+#: modules/gutenberg/src/blocks/order-detail-form/edit.js:2053
+#: modules/gutenberg/src/blocks/order-detail-form/edit.js:2494
+#: modules/gutenberg/src/blocks/checkout-form/edit.js:651
+msgid "Heading"
+msgstr "Encabezado"
+
+#: admin-legacy/modules/flow/class-cartflows-flow-meta.php:734
+#: modules/flow/view/meta-flow-steps.php:145
+#: admin-core/assets/build/editor-app.js:1
+msgid "Add New Step"
+msgstr "Añadir nuevo paso"
+
+#: admin-legacy/modules/flow/class-cartflows-flow-meta.php:835
+msgid "Delete Step"
+msgstr "Borrar paso"
+
+#: admin-legacy/modules/flow/class-cartflows-flow-meta.php:824
+msgid "Clone Step"
+msgstr "Clonar paso"
+
+#: admin-legacy/modules/flow/class-cartflows-flow-meta.php:815
+#: modules/flow/classes/class-cartflows-step-post-type.php:165
+#: admin-core/assets/build/editor-app.js:2
+msgid "Edit Step"
+msgstr "Editar paso"
+
+#: admin-legacy/modules/flow/class-cartflows-flow-meta.php:804
+#: modules/flow/classes/class-cartflows-step-post-type.php:166
+msgid "View Step"
+msgstr "Ver paso"
+
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:171
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:263
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:499
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:611
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:372
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:542
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:250
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:350
+msgid "Left Right Spacing"
+msgstr "Espaciado izquierda y derecha "
+
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:163
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:255
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:491
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:603
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:357
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:522
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:244
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:344
+msgid "Top Bottom Spacing"
+msgstr "Espaciado superior e inferior"
+
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:156
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:248
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:484
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:596
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:342
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:507
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:264
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:238
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:338
+msgid "Custom"
+msgstr "Personalizado"
+
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:155
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:247
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:483
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:595
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:338
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:503
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:234
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:334
+#: modules/gutenberg/src/components/option-selector-control/index.js:43
+msgid "Extra Large"
+msgstr "Extra grande"
+
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:154
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:246
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:482
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:594
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:334
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:499
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:230
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:330
+#: modules/gutenberg/src/components/option-selector-control/index.js:37
+#: modules/gutenberg/src/components/gutter-options/index.js:25
+msgid "Large"
+msgstr "Grande"
+
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:153
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:245
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:481
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:593
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:330
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:495
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:226
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:326
+#: modules/gutenberg/src/components/option-selector-control/index.js:31
+#: modules/gutenberg/src/components/gutter-options/index.js:19
+msgid "Medium"
+msgstr "Media"
+
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:152
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:244
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:480
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:592
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:326
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:491
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:222
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:322
+#: modules/gutenberg/src/components/option-selector-control/index.js:25
+#: modules/gutenberg/src/components/gutter-options/index.js:13
+msgid "Small"
+msgstr "Pequeña"
+
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:151
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:243
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:479
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:591
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:322
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:487
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:218
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:318
+msgid "Extra Small"
+msgstr "Extra pequeña"
+
+#. translators: %s flow id
+#: admin-legacy/modules/flow/class-cartflows-flow-meta.php:267
+#: admin-core/ajax/steps.php:279
+msgid "Step not deleted for flow - %s"
+msgstr "Paso no borrado para el flujo - %s"
+
+#: modules/flow/classes/class-cartflows-step-post-type.php:211
+msgid "Step Type"
+msgstr "Tipo de paso"
+
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:215
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:448
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:626
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:264
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:416
+msgid "Buttons"
+msgstr "Botones"
+
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:147
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:239
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:475
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:587
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:316
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:481
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:212
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:312
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/blocks/order-detail-form/edit.js:1143
+#: modules/gutenberg/src/blocks/order-detail-form/edit.js:1503
+#: modules/gutenberg/src/blocks/order-detail-form/edit.js:1940
+#: modules/gutenberg/src/blocks/order-detail-form/edit.js:2379
+#: modules/gutenberg/src/blocks/order-detail-form/edit.js:2818
+#: modules/gutenberg/src/blocks/checkout-form/edit.js:1064
+#: modules/gutenberg/src/blocks/next-step-button/edit.js:1019
+msgid "Size"
+msgstr "Tamaño"
+
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:119
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:447
+#: admin-legacy/includes/admin/cartflows-general.php:143
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:276
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:179
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:184
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:146
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:151
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:190
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:81
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:86
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:140
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:145
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:190
+#: admin-core/inc/admin-helper.php:371 modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/components/typography/font-typography.js:22
+#: modules/gutenberg/src/blocks/checkout-form/edit.js:410
+#: modules/gutenberg/src/blocks/checkout-form/edit.js:418
+#: modules/gutenberg/src/blocks/optin-form/edit.js:306
+#: modules/gutenberg/src/blocks/optin-form/edit.js:314
+#: modules/gutenberg/src/blocks/optin-form/edit.js:470
+#: modules/gutenberg/src/blocks/optin-form/edit.js:763
+#: admin-core/assets/build/editor-app.js:2
+msgid "Default"
+msgstr "Por defecto"
+
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:202
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:507
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:432
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:495
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:941
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:251
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:137
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:266
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:256
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/blocks/checkout-form/edit.js:1520
+#: modules/gutenberg/src/blocks/optin-form/edit.js:402
+msgid "Label Color"
+msgstr "Color de la etiqueta"
+
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:195
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:303
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:531
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:664
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:417
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:622
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:582
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:1008
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:315
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:235
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:383
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:377
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:584
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:819
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:274
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:400
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/blocks/checkout-form/edit.js:624
+#: modules/gutenberg/src/blocks/checkout-form/edit.js:1313
+#: modules/gutenberg/src/blocks/checkout-form/edit.js:1536
+#: modules/gutenberg/src/blocks/checkout-form/edit.js:1590
+#: modules/gutenberg/src/blocks/next-step-button/edit.js:1209
+#: modules/gutenberg/src/blocks/optin-form/edit.js:536
+#: modules/gutenberg/src/blocks/optin-form/edit.js:829
+msgid "Border Color"
+msgstr "Color del borde"
+
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:179
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:515
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:387
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:262
+msgid "Text / Placeholder Color"
+msgstr "Color del texto / marcador de posición"
+
+#: admin-legacy/modules/thankyou/class-cartflows-thankyou-meta.php:104
+msgid "Thank You Design"
+msgstr "Diseño de agradecimiento"
+
+#: modules/widgets/class-cartflows-next-step.php:24
+msgid "CartFlows Next Step"
+msgstr "CartFlows paso siguiente"
+
+#: modules/flow/view/view-remote-importer.php:70
+msgid "You need a Cartflows Pro version to import Upsell / Downsell"
+msgstr "Necesitas una versión de Cartflows Pro para importar ventas dirigidas o ventas cruzadas a la baja"
+
+#: admin-legacy/class-cartflows-legacy-importer.php:574
+msgid "Getting templates from the cloud. Please wait for the moment."
+msgstr "Obteniendo plantillas desde la nube. Por favor, espera un momento."
+
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:187
+#: admin-legacy/modules/checkout/meta-views/design-checkout-style-tab.php:287
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:523
+#: admin-legacy/modules/optin/class-cartflows-optin-meta.php:648
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:402
+#: modules/checkout/classes/class-cartflows-checkout-meta-data.php:592
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:679
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:789
+#: modules/elementor/widgets/class-cartflows-el-checkout-form.php:995
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:426
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:481
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:571
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:662
+#: modules/elementor/widgets/class-cartflows-el-order-details-form.php:751
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:388
+#: modules/elementor/widgets/class-cartflows-el-optin-form.php:458
+#: modules/elementor/widgets/class-cartflows-el-next-step-button.php:371
+#: modules/beaver-builder/cartflows-bb-next-step/cartflows-bb-next-step.php:421
+#: modules/beaver-builder/cartflows-bb-optin-form/cartflows-bb-optin-form.php:296
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:464
+#: modules/beaver-builder/cartflows-bb-checkout-form/cartflows-bb-checkout-form.php:803
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:264
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:333
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:399
+#: modules/beaver-builder/cartflows-bb-order-details/cartflows-bb-order-details.php:465
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:268
+#: modules/optin/classes/class-cartflows-optin-meta-data.php:388
+#: modules/gutenberg/dist/blocks.build.js:1
+#: modules/gutenberg/src/blocks/order-detail-form/edit.js:936
+#: modules/gutenberg/src/blocks/order-detail-form/edit.js:1296
+#: modules/gutenberg/src/blocks/order-detail-form/edit.js:1733
+#: modules/gutenberg/src/blocks/order-detail-form/edit.js:2170
+#: modules/gutenberg/src/blocks/order-detail-form/edit.js:2611
+#: modules/gutenberg/src/blocks/checkout-form/edit.js:800
+#: modules/gutenberg/src/blocks/checkout-form/edit.js:1574
+#: modules/gutenberg/src/blocks/next-step-button/edit.js:776
+#: modules/gutenberg/src/blocks/optin-form/edit.js:674
+#: modules/gutenberg/src/blocks/optin-form/edit.js:724
+msgid "Background Color"
+msgstr "Color de fondo"
